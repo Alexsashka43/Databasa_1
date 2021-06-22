@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:creating-project" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:creating-project" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:application" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:databases" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:databases" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:models_list_displaying" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:databases" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:work_with_database" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:databases_2" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:databases_2" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:m2m-relations" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:databases_2" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:orm_query" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:request-handling" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:request-handling" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:file_server" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:site-form-works" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:site-form-works" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:avia_scanner" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:site-personalization" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:site-personalization" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:paid_content" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:site-personalization" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:sessions" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d724f7f1-ad2b-49fd-96d7-410cf6282e2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Inflation/templatestags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phones/templatetags/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phones/management/commands/import_phones.py" beforeDir="false" afterPath="$PROJECT_DIR$/phones/management/commands/import_phones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phones/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/phones/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/app/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/app/templates/inflation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/app/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/app/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/inflation_russia.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first-project/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/app/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/app/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/app/templates/app/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/app/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/first_project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/first_project/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/first_project/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/first_project/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/requirements.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1uIX6mdOcwdpWSz4foWKKOKkyvs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/manage.py" />
+  </component>
+  <component name="RunManager">
+    <configuration name="managy" type="PythonConfigurationType" factoryName="Python">
+      <module name="work_with_database" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\qwert\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d724f7f1-ad2b-49fd-96d7-410cf6282e2e" name="Default Changelist" comment="" />
+      <created>1624353903692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624353903692</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="790" y="181" key="#Inspections" timestamp="1624375511914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="790" y="181" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1624375511914" />
+    <state x="193" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624355498279">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="193" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1624355498279" />
+    <state x="518" y="187" key="FileChooserDialogImpl" timestamp="1624355375662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="518" y="187" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1624355375662" />
+    <state width="1364" height="125" key="GridCell.Tab.0.bottom" timestamp="1624378568392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="125" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624378568392" />
+    <state width="1364" height="125" key="GridCell.Tab.0.center" timestamp="1624378568391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="125" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624378568391" />
+    <state width="1364" height="125" key="GridCell.Tab.0.left" timestamp="1624378568391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="125" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624378568391" />
+    <state width="1364" height="125" key="GridCell.Tab.0.right" timestamp="1624378568392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="125" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624378568392" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/manage.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
