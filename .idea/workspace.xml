@@ -162,38 +162,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d724f7f1-ad2b-49fd-96d7-410cf6282e2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Inflation/templatestags/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phones/templatetags/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phones/management/commands/import_phones.py" beforeDir="false" afterPath="$PROJECT_DIR$/phones/management/commands/import_phones.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phones/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/phones/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/app/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/app/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/app/templates/inflation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/app/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/app/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/app/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/example.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/inflation_russia.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dynamic-templates/task1/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../first-project/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/app/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/app/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/app/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/app/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/app/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/app/templates/app/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/app/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/app/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/first_project/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/first_project/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/first_project/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/first_project/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../first-project/first_project/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phones/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/phones/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +179,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1uIX6mdOcwdpWSz4foWKKOKkyvs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -218,10 +189,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/manage.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../database/manage.py" />
   </component>
   <component name="RunManager">
-    <configuration name="managy" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python">
       <module name="work_with_database" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,11 +200,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\qwert\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../database" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../database/manage.py" />
       <option name="PARAMETERS" value="runserver" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,36 +237,37 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="790" y="181" key="#Inspections" timestamp="1624375511914">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="790" y="181" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1624375511914" />
-    <state x="193" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624355498279">
+    <state x="193" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624710873933">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="193" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1624355498279" />
-    <state x="518" y="187" key="FileChooserDialogImpl" timestamp="1624355375662">
+    <state x="193" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1624710873933" />
+    <state x="518" y="187" key="FileChooserDialogImpl" timestamp="1624710869959">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="518" y="187" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1624355375662" />
-    <state width="1364" height="125" key="GridCell.Tab.0.bottom" timestamp="1624378568392">
+    <state x="518" y="187" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1624710869959" />
+    <state width="1364" height="125" key="GridCell.Tab.0.bottom" timestamp="1624710844643">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="125" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624378568392" />
-    <state width="1364" height="125" key="GridCell.Tab.0.center" timestamp="1624378568391">
+    <state width="1364" height="125" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624710844643" />
+    <state width="1364" height="125" key="GridCell.Tab.0.center" timestamp="1624710844643">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="125" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624378568391" />
-    <state width="1364" height="125" key="GridCell.Tab.0.left" timestamp="1624378568391">
+    <state width="1364" height="125" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624710844643" />
+    <state width="1364" height="125" key="GridCell.Tab.0.left" timestamp="1624710844642">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="125" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624378568391" />
-    <state width="1364" height="125" key="GridCell.Tab.0.right" timestamp="1624378568392">
+    <state width="1364" height="125" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624710844642" />
+    <state width="1364" height="125" key="GridCell.Tab.0.right" timestamp="1624710844643">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1364" height="125" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624378568392" />
+    <state width="1364" height="125" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624710844643" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
